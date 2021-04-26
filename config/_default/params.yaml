@@ -23,10 +23,10 @@ twitter: ''
 email: hugues.tchouankem@rwth-aachen.de
 phone: +49 162 1856608
 address:
-  street: 450 Serra Mall
+  street: 
   city: Hemmingen (Hannover)
-  region: Niedersachsen
   postcode: '30966'
+  region: Niedersachsen
   country: Germany
   country_code: DE
 coordinates:
