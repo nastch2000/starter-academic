@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: hugues.tchouankem@rwth-aachen.de
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
-  city: Stanford
+  city: Hemmingen (Hannover)
   region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  postcode: '30966'
+  country: Germany
+  country_code: DE
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
@@ -38,10 +38,10 @@ office_hours:
   - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: linkedIn
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://de.linkedin.com/in/h-narcisse-tchouankem-16657923'
   - icon: skype
     icon_pack: fab
     name: Skype Me
