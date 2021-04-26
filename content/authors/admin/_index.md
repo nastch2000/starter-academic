@@ -10,8 +10,8 @@ role: Research Scientist Mobile Communication
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Corporate Research Robert Bosch GmbH
-  url: https://www.stanford.edu/
+- name: Corporate Research - Robert Bosch GmbH
+  url: https://www.bosch.com/research/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mobile communication, vehicular communication (V2X, C-V2X) and IoT
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Dr.-Ing in Electrical Engineering and Information Technology
     institution: Leibniz University Hannover
-    year: 02.2016
+    year: 2016
   - course: Dipl.Ing in Electrical Engineering and Information Technology
     institution: RWTH Aachen University
     year: 2009
@@ -42,18 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=gY13QlQAAAAJ&hl=de
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/nastch2000
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://de.linkedin.com/in/h-narcisse-tchouankem-16657923
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -63,13 +60,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "hugues.tchouankem@rwth-aachen.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hugues Tchouankem is a research scientist at the corporate research direction of the Robert Bosch GmbH. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
