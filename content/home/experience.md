@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Senior Lecturer
+    company: Hannover University of Applied Sciences
+    company_url: 'https://www.hs-hannover.de/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Hannover
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Research Assistant
+    company: Leibniz Unversity of Hannover
+    company_url: 'https://www.uni-hannover.de/en/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Hannover
+    date_start: '2009-11-01'
+    date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
