@@ -27,15 +27,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Dr.-Ing in Electrical Engineering and Information Technology
+    institution: Leibniz University Hannover
+    year: 02.2016
+  - course: Dipl.Ing in Electrical Engineering and Information Technology
+    institution: RWTH Aachen University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
