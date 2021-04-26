@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: Leibniz Unversity of Hannover
     company_url: 'https://www.uni-hannover.de/en/'
-    company_logo: org-x
+    company_logo: luh
     location: Hannover
     date_start: '2009-11-01'
     date_end: '2016-12-31'
