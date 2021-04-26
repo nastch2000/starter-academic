@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:hugues.tchouankem@rwth-aachen.de'
 - icon: graduation-cap  # Alternatively, use `graduation-cap` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=gY13QlQAAAAJ&hl=de
