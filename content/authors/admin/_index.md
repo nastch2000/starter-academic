@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hugues Tchouankem
+title: Dr-Ing. Hugues Tchouankem
 
 # Is this the primary user of the site?
 superuser: true
