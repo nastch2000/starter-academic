@@ -25,7 +25,7 @@ experience:
   - title: Senior Lecturer
     company: Hannover University of Applied Sciences
     company_url: 'https://www.hs-hannover.de/'
-    company_logo: org-gc
+    company_logo: hsh-logo
     location: Hannover
     date_start: '2019-09-01'
     date_end: ''
