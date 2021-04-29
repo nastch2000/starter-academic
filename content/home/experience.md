@@ -43,7 +43,9 @@ experience:
     location: Hannover
     date_start: '2009-11-01'
     date_end: '2016-12-31'
-    description: Research Assistant & PhD student
+    description:
+    
+      * Research Assistant & PhD student
 
 design:
   columns: '2'
