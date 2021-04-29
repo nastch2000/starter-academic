@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Predicting Quality of Service (QoS) for mobile Communication for Industry4.0 Domain
+summary: Predicting QoS by means of Deep Learning 
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
