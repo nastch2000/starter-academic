@@ -66,5 +66,5 @@ email: "hugues.tchouankem@rwth-aachen.de"
 highlight_name: false
 ---
 
-Hugues Tchouankem is a senior research scientist at the corporate research direction of the Robert Bosch GmbH. His research interests include mobile communication, vehicular networking and artificial intelligence for mobile networks. He internally leads the publicly funded project AI4Mobile aiming at developing AI-aided approaches that enable a robust prediction of overall communication performance by exploiting data from the entire mobile network.
+Hugues Tchouankem is a senior research scientist in the corporate research direction at Robert Bosch GmbH. His research interests include mobile communication, vehicular networking and artificial intelligence for mobile networks. He internaly leads the publicly funded project AI4Mobile aiming at developing AI-aided approaches that enable a robust prediction of the overall communication performance by exploiting data from the entire mobile network.
 
