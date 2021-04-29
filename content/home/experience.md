@@ -1,4 +1,4 @@
----
+r---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Lecture session
+        * Exercise session
+        * Exam
         
   - title: Research Assistant
     company: Leibniz Unversity of Hannover
@@ -43,7 +43,7 @@ experience:
     location: Hannover
     date_start: '2009-11-01'
     date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Research Assistant & PhD student
 
 design:
   columns: '2'
