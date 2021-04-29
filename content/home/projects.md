@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Predicting Quality of Service for industry-liked Communication using Deep Learning
+    tag: Deep Learning for Mobile Networks
   - name: Other
     tag: Demo
 
