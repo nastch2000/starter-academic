@@ -66,8 +66,8 @@ email: "hugues.tchouankem@rwth-aachen.de"
 highlight_name: false
 ---
 
-Hugues Tchouankem is a senior research scientist at the corporate research direction of the Robert Bosch GmbH. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hugues Tchouankem is a senior research scientist at the corporate research direction of the Robert Bosch GmbH. His research interests include mobile communication, vehicular networking and artificial intelligence for mobile networks. He internally leads the publicly funded project AI4Mobile aiming at developing AI-aided approaches that enable a robust prediction of overall communication performance by exploiting data from the entire mobile network.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu #pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
