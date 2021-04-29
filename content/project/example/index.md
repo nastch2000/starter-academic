@@ -1,6 +1,6 @@
 ---
-title: Predicting Quality of Service (QoS) for mobile Communication for automotive and industrial domain
-summary: Predicting QoS for time-series data using Deep Learning 
+title: Predicting Quality of Service (QoS) for mobile Communication
+summary: PQoS for time-series data using Deep Learning 
 tags:
 - Deep Learning
 date: "2020-04-27T00:00:00Z"
@@ -30,13 +30,13 @@ url_video: ""
 slides: example
 ---
 
-Many applications in the fi eld of cooperative autonomous driving or mobile
-robotics   due   to   the   highly   dynamic   nature   of   their   environment   will
+Many applications in the field of cooperative autonomous driving or mobile
+robotics   due   to   the   highly   dynamic   nature   of   their   environment will
 necessitate the deployment of ultra-reliable wireless links that can provide
 real-time, low-latency control for such autonomous systems. An important
 challenge is therefore to guarantee the end-to-end quality of service (QoS)
 required by the respective application. Integrating fundamental notions of
-artifi cial intelligence (AI) across the wireless infrastructure and end-user
+artificial intelligence (AI) across the wireless infrastructure and end-user
 devices has gained a tremendous interest not only in the improvement of
 road safety but also in the industry4.0 domain by reducing quality control
 eff orts   and   operational costs  on  exponential  levels.   One   major   gain  of
