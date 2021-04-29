@@ -1,6 +1,6 @@
 ---
-title: Predicting Quality of Service (QoS) for mobile Communication for Industry4.0 Domain
-summary: Predicting QoS by means of Deep Learning 
+title: Predicting Quality of Service (QoS) for mobile Communication for automotive and industrial domain
+summary: Predicting QoS for time-series data using Deep Learning 
 tags:
 - Deep Learning
 date: "2020-04-27T00:00:00Z"
