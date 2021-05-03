@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hugues Tchouankem # Website name
-baseurl: 'hugues-tchouankem.netlify.app' # Website URL
+baseurl: 'www.tchouankem.com' # Website URL
 copyright: '@2020 Hugues Tchouankem' # Footer text, e.g. '© {year} Me'
 
 ############################
