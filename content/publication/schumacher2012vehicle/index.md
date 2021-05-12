@@ -29,9 +29,7 @@ publication: In *IEEE International Conference on Communications (ICC), Ottawa, 
 publication_short: In *ICC2012*
 
 abstract: Abstract—During the last few years, vehicle-to-vehicle (V2V) wireless communication has become a key objective for enabling
-future cooperative safety applications, such as intersection collision warning. In this paper, we present the results of a 5.9 GHz
-V2V performance measurement campaign at four different urban
-intersections under NLOS conditions using commercial off-theshelf wireless interface cards which meet the 802.11p and ITSG5 specifications. 
+future cooperative safety applications, such as intersection collision warning.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
