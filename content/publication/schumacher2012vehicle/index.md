@@ -28,7 +28,12 @@ publication_types: ["1"]
 publication: In *IEEE International Conference on Communications (ICC), Ottawa, Canada*
 publication_short: In *ICC2012*
 
-abstract: During the last few years, vehicle-to-vehicle (V2V) wireless communication has become a key objective for enabling.
+abstract: During the last few years, vehicle-to-vehicle (V2V) wireless communication has become a key objective for enabling.  Particularly, we quantify the packet delivery
+ratio (PDR) and received signal strength indication (RSSI) levels
+associated with different scenario conditions with respect to
+vehicle positioning, intersection geometry and trafﬁc density. We
+determine reliable communication ranges which constitute an
+important metric for V2V collision avoidance applications.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
