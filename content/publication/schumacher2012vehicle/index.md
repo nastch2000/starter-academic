@@ -38,7 +38,7 @@ abstract: During the last few years, vehicle-to-vehicle (V2V) wireless communica
 intersections under NLOS conditions using commercial off-theshelf wireless interface cards which meet the 802.11p and ITSG5 specifications. Particularly, we quantify the packet delivery ratio (PDR) and received signal strength indication (RSSI) levels associated with different scenario conditions with respect to vehicle positioning, intersection geometry and traffic density. We determine reliable communication ranges which constitute an important metric for V2V collision avoidance applications.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Summary
 
 tags: []
 
