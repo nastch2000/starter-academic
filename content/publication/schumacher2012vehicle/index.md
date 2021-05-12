@@ -30,8 +30,7 @@ publication_short: In *ICC2012*
 
 abstract: During the last few years, vehicle-to-vehicle (V2V)
 wireless communication has become a key objective for enabling
-future cooperative safety applications, such as intersection colli-
-sion warning. In this paper, we present the results of a 5.9 GHz
+future cooperative safety applications, such as intersection collision warning. In this paper, we present the results of a 5.9 GHz
 V2V performance measurement campaign at four different urban
 intersections under NLOS conditions using commercial off-the-
 shelf wireless interface cards which meet the 802.11p and ITS-
