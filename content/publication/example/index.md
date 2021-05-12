@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/profile/Tchouankem-Hugues-Narcisse/publication/237149528_Vehicle-to-Vehicle_IEEE_80211p_performance_measurements_at_urban_intersections/links/54dc7aa70cf23fe133b192cf/Vehicle-to-Vehicle-IEEE-80211p-performance-measurements-at-urban-intersections.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
