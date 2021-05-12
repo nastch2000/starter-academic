@@ -28,7 +28,7 @@ publication_types: ["1"]
 publication: In *IEEE International Conference on Communications (ICC), Ottawa, Canada*
 publication_short: In *ICC2012*
 
-abstract: Abstract—During the last few years, vehicle-to-vehicle (V2V) wireless communication has become a key objective for enabling
+abstract: During the last few years, vehicle-to-vehicle (V2V) wireless communication has become a key objective for enabling
 future cooperative safety applications, such as intersection collision warning.
 
 # Summary. An optional shortened abstract.
