@@ -36,7 +36,6 @@ Wrapping up our analysis, real-world conditions are considered through testbed e
 Measurements confirm that maximum diversity cannot be achieved under correlated shadowing but cooperation may bring advantages if a subset of cooperative devices malfunctions. 
 To the best of our knowledge, this is the first study on the application of 802.22 WRAN as access technology for return paths of interactive TV.
 
-
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
