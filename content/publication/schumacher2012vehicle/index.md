@@ -28,10 +28,7 @@ publication_types: ["1"]
 publication: In *IEEE International Conference on Communications (ICC), Ottawa, Canada*
 publication_short: In *ICC2012*
 
-abstract: During the last few years, vehicle-to-vehicle (V2V) wireless communication has become a key objective for enabling
-future cooperative safety applications, such as intersection collision warning. In this paper, we present the results of a 5.9 GHz V2V performance measurement campaign at four different urban intersections under NLOS conditions using commercial off-the-shelf wireless interface cards which meet the 802.11p and ITS-G5 specifications. Particularly, we quantify the packet delivery ratio (PDR) and received signal strength indication (RSSI) levels associated with different scenario conditions with respect to
-vehicle positioning, intersection geometry and traffic density. We determine reliable communication ranges which constitute an
-important metric for V2V collision avoidance applications.
+abstract: During the last few years, V2V wireless communication has become a key objective for enabling future cooperative safety applications, such as intersection collision warning. In this paper, we present the results of a 5.9GHz V2V performance measurement campaign at four different urban intersections under NLOS conditions using commercial off-the-shelf wireless interface cards which meet the 802.11p and ITS-G5 specifications. Particularly, we quantify the \ac{PDR} and \ac{RSSI} levels associated with different scenario conditions with respect to vehicle positioning, intersection geometry and traffic density. We determine reliable communication ranges which constitute an important metric for V2V collision avoidance applications.
 
 
 # Summary. An optional shortened abstract.
