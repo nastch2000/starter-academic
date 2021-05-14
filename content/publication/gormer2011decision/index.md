@@ -1,22 +1,21 @@
 ---
-title: "Vehicle-to-Vehicle IEEE 802.11p Performance Measurements at Urban Intersections"
+title: "Decision Support for Dynamic City Traffic Management using Vehicular Communication"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Jana Görmer
+- Jan Fabian Ehmke
+- Maksims Fiosins
+- Daniel Schmidt
 - Henrik Schumacher
 - Hugues Tchouankem 
-- Jörg Nuckelt
-- Thomas Kurner
-- Tetiana Zinchenko
-- André Leschke
-- Lars Wolf
 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2012-06-01T00:00:00Z"
+publishDate: "2011-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,10 +24,10 @@ publishDate: "2012-06-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Communications (ICC), Ottawa, Canada*
-publication_short: In *ICC2012*
+publication: In *1st International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH), Noordwijkerhout, The Netherlands*
+publication_short: In *SIMULTECH2011*
 
-abstract: During the last few years, V2V wireless communication has become a key objective for enabling future cooperative safety applications, such as intersection collision warning. In this paper, we present the results of a 5.9GHz V2V performance measurement campaign at four different urban intersections under NLOS conditions using commercial off-the-shelf wireless interface cards which meet the 802.11p and ITS-G5 specifications. Particularly, we quantify the PDR and RSSI levels associated with different scenario conditions with respect to vehicle positioning, intersection geometry and traffic density. We determine reliable communication ranges which constitute an important metric for V2V collision avoidance applications.
+abstract: In this paper, we present an integrated simulation approach featuring centralized and decentralized traffic management in urban areas. Our aim is to improve traffic flows by dynamic traffic management which is supported by vehicular communication interlinking centralized and decentralized decision making. We focus on traffic state estimation and the optimization of traffic lights as a central component to influence local traffic states, while individual traffic participants’ behavior is modeled by multiagent systems. Traffic participants achieve their individual goals by formation of groups and improving their knowledge about the road network by means of learning. Modeling of vehicular communication takes into account specific characteristics of urban areas, ensuring the realistic collection and dissemination of (de)centralized information. We provide a comprehensive microscopic traffic simulation framework featuring innovative functionality regarding dynamic traffic management, decentralized decision making as well as realistic communication modeling. To illustrate and validate our approach, we present a use case in a city scenario. Simulations are implemented based on the microscopic traffic simulator AIMSUN, which is significantly extended using the AIMSUN API.
 
 
 # Summary. An optional shortened abstract.
