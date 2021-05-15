@@ -10,7 +10,7 @@ authors:
 - Henrik Schumacher
 
  
-doi: ""
+doi: "10.1109/CCNC.2015.7157978"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2015-01-01T00:00:00Z"
@@ -40,7 +40,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.researchgate.net/publication/260881024_Impact_of_Vehicular_Communication_Performance_on_Travel_Time_Estimation_in_Urban_Areas'
+url_pdf: 'https://ieeexplore.ieee.org/document/7157978'
 url_code: ''
 url_dataset: ''
 url_poster: ''
