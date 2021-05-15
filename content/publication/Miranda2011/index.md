@@ -30,11 +30,6 @@ Depending on the level of interactivity, a return path is required to send data 
 In this paper, we propose the use of 802.22 WRAN to implement the return path over white spaces. 
 Our approach allows the transmission of interactive data in overlay with broadcast data. 
 Following 802.22's requirements, we analyze the task of selecting settings for cooperative spectrum sensing. 
-First, our numerical results show that the number of cooperative devices used to improve sensing accuracy is constrained to the minimum data rate per device. 
-Second, we show through computer simulations that noise uncertainty limits cooperation gains regardless of how settings are selected. 
-Wrapping up our analysis, real-world conditions are considered through testbed experimentation. 
-Measurements confirm that maximum diversity cannot be achieved under correlated shadowing but cooperation may bring advantages if a subset of cooperative devices malfunctions. 
-To the best of our knowledge, this is the first study on the application of 802.22 WRAN as access technology for return paths of interactive TV.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
