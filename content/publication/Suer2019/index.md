@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: In *IEEE Communications Surveys & Tutorials*
 publication_short: In *IEEE Communications Surveys & Tutorials*
 
-abstract: Emerging applications such as wireless industrial control or vehicular communications pose strict requirements in terms of latency and reliability on wireless communication systems. Since contemporary communication standards are not able to fulfill all of these requirements, reliable low-latency communication is an important research topic. Using multiple communication paths at once, i.e., multi-connectivity (MC), is a promising approach to get closer to reaching this goal of reliable low-latency communication. In this survey we provide a definition for MC, identify main scheduling categories, compare different network architectures and consider different layers for implementing MC. We provide an overview of MC methods already established in IEEE and 3GPP standardization and discuss recent MC approaches on a layer-by-layer basis.
+abstract: Emerging applications such as wireless industrial control or vehicular communications pose strict requirements in terms of latency and reliability on wireless communication systems. Since contemporary communication standards are not able to fulfill all of these requirements, reliable low-latency communication is an important research topic. Using multiple communication paths at once, i.e., multi-connectivity (MC), is a promising approach to get closer to reaching this goal of reliable low-latency communication. In this survey we provide a definition for MC, identify main scheduling categories, compare different network architectures and consider different layers for implementing MC. We provide an overview of MC methods already established in IEEE and 3GPP standardization and discuss recent MC approaches on a layer-by-layer basis. Moreover, we reflect on the existing literature and identify open issues. We suggest further research directions such as the OSI Layer where separation and aggregation of the different paths for MC is performed, the characteristics of the paths to be used for MC and dynamic scheduling techniques for MC settings.
 
 
 # Summary. An optional shortened abstract.
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/8884124'
 url_code: ''
 url_dataset: ''
 url_poster: ''
