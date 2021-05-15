@@ -5,7 +5,7 @@ title: "AI4Mobile: Use Cases and Challenges of AI-based QoS Prediction for High-
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- D.F. Külzer
+- D. F. Külzer
 - M. Kasparick 
 - A. Palaios
 - R. Sattiraju 
@@ -16,7 +16,7 @@ authors:
 - P. Geuer 
 - J. Schwardmann 
 - G. Fettweis
-- H.D. Schotten
+- H. D. Schotten
 - S. Stanczak
 
 doi: ""
