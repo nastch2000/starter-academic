@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *VIth International Symposium on Networks for Mobility, Stuttgart, Germany*
-publication_short: In *Fovus2012*
+publication_short: In *VIth International Symposium on Networks for Mobility (Fovus 2012)*
 
 abstract: Increasing  traffic  demands  in  urban  agglomerations  lead  to  a  variety  of traffic challenges which are reflected in increasing travel times, numbers of stops and pollutant emissions. One of the main challenges in order to counteract these negative effects  is  the  exact  determination  or  estimation  of  travel  times,  which  is  a  basic requirement for each  traffic control  method, especially at urban intersections. In this paper, we present a travel time estimation (TTE) approach for urban areas based on vehicular  communication.  The  impact  of  communication  parameters  such  as transmission range,  message generation  rate  and penetration  rate on  the quality of the  TTE  is  analyzed  using  simulations.  For  this  purpose,  the  performance  of  the vehicle-to-infrastructure-based travel time estimation (V2I-based TTE) is compared to a perfect  TTE provided  by  the simulation  platform. The results  show that, while  the penetration rate  and the  transmission range significantly affect the TTE  accuracy, a message generation  rate of 1 msg/s should be sufficient  if at least 10 % of vehicles are equipped.
 
