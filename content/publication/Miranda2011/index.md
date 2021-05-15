@@ -28,8 +28,7 @@ publication_short: In *WiAd2011*
 abstract: Interactive TV capitalizes on the opportunities created by digitisation to offer new services. 
 Depending on the level of interactivity, a return path is required to send data from the home user back to the broadcaster. 
 In this paper, we propose the use of 802.22 WRAN to implement the return path over white spaces. 
-Our approach allows the transmission of interactive data in overlay with broadcast data. 
-Following 802.22's requirements, we analyze the task of selecting settings for cooperative spectrum sensing. 
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
