@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8884124'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,7 +73,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- example
 
 
 # Slides (optional).
