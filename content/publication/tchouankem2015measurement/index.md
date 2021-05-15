@@ -6,8 +6,8 @@ title: "Measurement-based Evaluation of Interference in Vehicular Ad-Hoc Network
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Hugues Tchouankem
-- Daniel Schmidt
-- Henrik Schumacher
+- Torsten Lorenzen
+
  
 doi: "10.1109/ICCW.2015.7247537"
 
@@ -39,7 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.researchgate.net/publication/260881024_Impact_of_Vehicular_Communication_Performance_on_Travel_Time_Estimation_in_Urban_Areas'
+url_pdf: 'https://ieeexplore.ieee.org/document/7247537'
 url_code: ''
 url_dataset: ''
 url_poster: ''
