@@ -25,8 +25,7 @@ publication_types: ["1"]
 publication: In *IEEE Wireless Advanced (WiAd), London, UK*
 publication_short: In *WiAd2011*
 
-abstract: Interactive TV capitalizes on the opportunities created by digitisation to offer new services. 
-Depending on the level of interactivity, a return path is required to send data from the home user back to the broadcaster. 
+abstract: Interactive TV capitalizes on the opportunities created by digitisation to offer new services. Depending on the level of interactivity, a return path is required to send data from the home user back to the broadcaster. 
 
 
 # Summary. An optional shortened abstract.
