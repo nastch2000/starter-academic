@@ -31,10 +31,10 @@ publishDate: "2021-06-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Vehicular Technology Conference (VTC Spring 2021)*
+publication: In *IEEE Vehicular Technology Conference (VTC Spring 2021), Helsinki, Finland*
 publication_short: In *IEEE Vehicular Technology Conference (VTC Spring 2021)*
 
-abstract: 
+abstract: The integration of functions into future communication systems that predict crucial Quality of Service (QoS) parameters is expected to enable many new or enhanced use cases, for example, in vehicular networks and Industry 4.0. Especially with high user mobility, QoS prediction is required in an End-to-End (E2E) fashion to guarantee uninterrupted connectivity and provisioning of real-time applications. In this paper, we present a concise list of mobility use cases, both from automotive and industrial production domains, that benefit from Artificial Intelligence-based QoS prediction. These applications are investigated in the publicly-funded research project AI4Mobile by a representative consortium of industry and academia. Based on a literature review, we identify the main challenges in realizing predictive QoS at high mobility, and we propose research directions to enable the envisioned E2E solutions.
 
 
 # Summary. An optional shortened abstract.
