@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *1st International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH), Noordwijkerhout, The Netherlands*
-publication_short: In *SIMULTECH2011*
+publication_short: In *1st International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH2011)*
 
 abstract: In this paper, we present an integrated simulation approach featuring centralized and decentralized traffic management in urban areas. Our aim is to improve traffic flows by dynamic traffic management which is supported by vehicular communication interlinking centralized and decentralized decision making. We focus on traffic state estimation and the optimization of traffic lights as a central component to influence local traffic states, while individual traffic participants’ behavior is modeled by multiagent systems. Traffic participants achieve their individual goals by formation of groups and improving their knowledge about the road network by means of learning. Modeling of vehicular communication takes into account specific characteristics of urban areas, ensuring the realistic collection and dissemination of (de)centralized information. We provide a comprehensive microscopic traffic simulation framework featuring innovative functionality regarding dynamic traffic management, decentralized decision making as well as realistic communication modeling. To illustrate and validate our approach, we present a use case in a city scenario. Simulations are implemented based on the microscopic traffic simulator AIMSUN, which is significantly extended using the AIMSUN API.
 
