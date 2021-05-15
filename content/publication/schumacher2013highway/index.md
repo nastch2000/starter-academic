@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *10th Annual Conference on Wireless On-demand Network Systems and Services (WONS), Banff, AB, Canada*
-publication_short: In *WONS2013*
+publication_short: In *10th Annual Conference on Wireless On-demand Network Systems and Services (WONS2013)*
 
 abstract: Available simulation studies on communication performance of VANETs in highway scenarios are based on different propagation models, often without empirical validation. In this paper, we present the results of a 5.9 GHz V2V highway measurement campaign using commercial off-the-shelf hardware to gain insights into adequate path loss modeling. As most established models significantly deviate from the empirical results, we propose a propagation model for V2V communication on highways which reflects conditions found in reality sufficiently well to be applicable for VANETs simulation studies. Due to the propagation model's complex interdependencies with the CSMA-based medium access, interference and frame collisions in VANETs, we examine the impact of different propagation modeling approaches on the resulting communication performance for varying network loads based on a simulation study. The results reveal that both the applied path loss model and the severity of fading substantially influence the simulation results and hence should be modeled very carefully.
 
