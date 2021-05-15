@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.scitepress.org/Papers/2011/35985/35985.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
