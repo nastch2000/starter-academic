@@ -6,17 +6,17 @@ tags:
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "www.ai4mobile.org"
+external_link: ""
 
 #image:
 #  caption: 
 #  focal_point: 
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
