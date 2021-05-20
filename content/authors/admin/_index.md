@@ -20,7 +20,7 @@ bio: My research interests include mobile communication, vehicular communication
 interests:
 - Computer Networks
 - Mobile Communication
-- Vehicular Networking
+- Vehicular and private Networks
 - Internet of Things (IoT)
 - Artificial Intelligence
 - Autonomous Driving and Mobile Robotics
@@ -67,5 +67,5 @@ email: "hugues.tchouankem@rwth-aachen.de"
 highlight_name: false
 ---
 
-Hugues Tchouankem is a senior research scientist in the corporate research and development department at Robert Bosch GmbH. He is currently involved in the publicly funded project [AI4Mobile](https://www.ai4mobile.org/en/) as work package leader. The main goal of the project is the design of AI-aided approaches that enable a robust prediction of the overall wireless communication performance by exploiting data from the entire mobile network. Aside to his professional activities, Hugues Tchouankem teaches as a Lecturer at the Department of Business and Informatics at the Hannover University of Applied Sciences and Arts where his holds the course "Vehicular Communication (V2X)" for Bachelor and Master students. His research interests include mobile communication, vehicular networking and artificial intelligence for mobile networks.
+Hugues Tchouankem is a senior research scientist in the corporate research and development department at Robert Bosch GmbH. He is currently involved in the publicly funded project [AI4Mobile](https://www.ai4mobile.org/en/) as work package leader. The main goal of the project is the design of AI-aided approaches that enable a robust prediction of the overall wireless communication performance by exploiting data from the entire mobile network. Aside to his professional activities, Hugues Tchouankem teaches as a Lecturer at the Department of Business and Informatics at the Hannover University of Applied Sciences and Arts where his holds the course "Vehicular Communication (V2X)" for Bachelor and Master students. His research interests include computer networks, mobile and vehicular communication with a grwowing focus on artificial intelligence for mobile networks.
 
