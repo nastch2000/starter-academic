@@ -15,4 +15,4 @@ Several internship positions in the domain of machine learning for mobile networ
 
 ## Motivation
 
-Exploiting passive (radio signal information, etc.) and active (measured latency, datarate, etc.) generated data from the network to predict the communication performance in a very short term time horizon less than 10 milliseconds. 
+Exploiting passive (radio signal information, etc.) and active (measured latency, datarate, etc.) generated data from the overall network as well as from external sources to predict the communication performance in a very short term time horizon less than 10 milliseconds. 
