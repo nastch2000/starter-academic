@@ -28,10 +28,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Dr.-Ing. (PhD) in Electrical Engineering and Information Technology
+  - course: PhD (Dr.-Ing.) in Electrical Engineering and Information Technology
     institution: Leibniz University Hannover
     year: 2016
-  - course: Dipl.Ing. (MSc) in Electrical Engineering and Information Technology
+  - course: MSc (Dipl.Ing.) in Electrical Engineering and Information Technology
     institution: RWTH Aachen University
     year: 2009
 
