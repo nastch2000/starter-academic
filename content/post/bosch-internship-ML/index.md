@@ -2,6 +2,8 @@
 title: Internship in the area of machine learning for mobile robotics
 subtitle: Looking for highly motivated interns 👋 for a current and hot topic in the area of mobile communication beyond 5G 
 
+**If you are interested , feel free to contact me or apply directly on [application platform](https://jobs.smartrecruiters.com/BoschGroup/743999742380833-praktikum-im-bereich-kunstliche-intelligenz-in-kommunikationssystemen-4g-5g-und-wifi-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)**
+
 # Summary for listings and search engines
 summary: Looking for highly motivated interns 👋 for a current and hot topic in the area of mobile communication beyond 5G
 
