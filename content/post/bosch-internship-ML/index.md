@@ -1,5 +1,5 @@
 ---
-title: Looking for highly motivated interns 👋 for a current and hot topic in the area of machine learning for mobile communication beyond 5G
+title: Looking for highly motivated interns 👋 for a hot topic in the area of machine learning for mobile communication beyond 5G
 date: 2021-05-01
 math: true
 diagram: true
