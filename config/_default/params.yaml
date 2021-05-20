@@ -23,37 +23,17 @@ twitter: ''
 email: hugues.tchouankem@rwth-aachen.de
 phone: +49 162 1856608
 address:
-  street: 
   city: Hemmingen (Hannover)
   postcode: '30966'
   region: Niedersachsen
   country: Germany
   country_code: DE
-coordinates:
-  latitude: ''
-  longitude: ''
-directions: 
-office_hours:
-  - ''
-  - ''
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: linkedin
     icon_pack: fab
     name: DM Me
     link: 'https://de.linkedin.com/in/h-narcisse-tchouankem-16657923'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
