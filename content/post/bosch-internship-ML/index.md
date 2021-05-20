@@ -4,14 +4,11 @@ date: 2021-05-01
 math: true
 diagram: true
 highlight: true
-image:
-  placement: 3
-  caption: ""
 ---
 
 Several internship positions in the domain of machine learning for mobile networks available. 
 
-**If you are interested , feel free to contact me or apply directly on [application platform](https://jobs.smartrecruiters.com/BoschGroup/743999742380833-praktikum-im-bereich-kunstliche-intelligenz-in-kommunikationssystemen-4g-5g-und-wifi-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)**
+**If you are interested , feel free to contact me or apply directly on [application platform](https://jobs.smartrecruiters.com/BoschGroup/743999742380833-praktikum-im-bereich-kunstliche-intelligenz-in-kommunikationssystemen-4g-5g-und-wifi-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)**.
 
 ## Motivation
 
