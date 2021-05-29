@@ -20,7 +20,7 @@ bio: My research interests include mobile communication, vehicular communication
 interests:
 - Computer Networks
 - Mobile Communication
-- Vehicular and private Networks
+- Vehicular and Campus Networks
 - Internet of Things (IoT)
 - Artificial Intelligence
 - Autonomous Driving and Mobile Robotics
