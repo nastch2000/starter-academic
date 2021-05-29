@@ -46,9 +46,6 @@ social:
 - icon: graduation-cap  # Alternatively, use `graduation-cap` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=gY13QlQAAAAJ&hl=de
-- icon: github
-  icon_pack: fab
-  link: https://github.com/nastch2000
 - icon: linkedin
   icon_pack: fab
   link: https://de.linkedin.com/in/h-narcisse-tchouankem-16657923
