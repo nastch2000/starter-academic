@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr-Ing. Hugues Tchouankem
+title: Prof. Dr-Ing. Hugues Tchouankem
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Scientist Mobile Communication
+role: Professor for Distributed Systems | Senior Research Scientist Mobile Communication
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -63,6 +63,5 @@ email: "hugues.tchouankem@rwth-aachen.de"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Hugues Tchouankem is a senior research scientist and project leader in the corporate research and development department at Robert Bosch GmbH. He is currently involved in the publicly funded project [AI4Mobile](https://www.ai4mobile.org/en/) as work package leader. The main goal of the project is the design of AI-aided approaches that enable a robust prediction of the end-to-end wireless communication performance by exploiting data from the entire mobile network as well as from external sensors. Aside to his professional activities, Hugues Tchouankem teaches as a Lecturer at the Department of Business and Informatics at the Hannover University of Applied Sciences and Arts where he holds the course "Vehicular Communication (V2X)" for Bachelor and Master students. His research interests include computer networks, mobile and vehicular communication with a growing focus on artificial intelligence for mobile networks.
+Hugues Tchouankem is Professor for Distributed Systems at Department of Information Technology at the University of Applied Sciences and Arts Dortmund, Germany. He also works as a senior research scientist and project leader in the corporate research and development department at Robert Bosch GmbH. He is currently involved in the publicly funded project [AI4Mobile](https://www.ai4mobile.org/en/) as work package leader. The main goal of the project is the design of AI-aided approaches that enable a robust prediction of the end-to-end wireless communication performance by exploiting data from the entire mobile network as well as from external sensors. Aside to his professional and academic activities, Hugues Tchouankem teaches as a Lecturer at the Department of Business and Informatics at the Hannover University of Applied Sciences and Arts where he holds the course "Vehicular Communication (V2X)" for Bachelor and Master students. His research interests include computer networks, mobile and vehicular communication with a growing focus on artificial intelligence for mobile networks.
 
