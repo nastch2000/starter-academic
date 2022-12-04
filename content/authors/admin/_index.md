@@ -58,7 +58,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "hugues.tchouankem@rwth-aachen.de"
+email: "hugues.tchouankem@fh-dortmund.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
