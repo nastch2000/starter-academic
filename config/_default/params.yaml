@@ -22,12 +22,12 @@ twitter: ''
 
 email: hugues.tchouankem@fh-dortmund.de
 phone: +49 162 1856608
-address:
-  city: 
-  postcode: 
-  region: 
-  country: Germany
-  country_code: DE
+#address:
+  #city: 
+  #postcode: 
+  #region: 
+  #country: Germany
+  #country_code: DE
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: linkedin
