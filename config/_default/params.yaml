@@ -23,9 +23,9 @@ twitter: ''
 email: hugues.tchouankem@fh-dortmund.de
 phone: +49 162 1856608
 address:
-  city: Hannover
-  postcode: '30175'
-  region: Niedersachsen
+  city: 
+  postcode: 
+  region: 
   country: Germany
   country_code: DE
 appointment_url: 'https://calendly.com'
