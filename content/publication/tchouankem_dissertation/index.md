@@ -6,26 +6,50 @@ title: "Impact of Buildings on Vehicle-to-Vehicle Communication at Urban Interse
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Hugues Tchouankem
-- Tetiana Zinchenko
-- Henrik Schumacher
+
 
  
 doi: "10.1109/CCNC.2015.7157978"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-01-01T00:00:00Z"
+publishDate: "2016-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *12th Annual IEEE Consumer Communications and Networking Conference (CCNC), Las Vegas, USA*
-publication_short: In *12th Annual IEEE Consumer Communications and Networking Conference (CCNC2015)*
+publication: In *Gottfried Wilhelm Leibniz Universität Hannover*
+publication_short: In *Gottfried Wilhelm Leibniz Universität Hannover*
 
-abstract: Although the potential of Vehicular Ad-Hoc Networks (VANETS) to improve road safety and traffic efficiency for next-generation vehicular traffic system has been well investigated and proved, the performance of vehicle-to-vehicle (V2V) communication, especially at urban intersections has not been clearly quantified. In this paper, we evaluate the effects of buildings on the vehicle-to-vehicle performance at urban intersections based on a profound simulation campaign. Due to the two-dimensional nature of intersection topologies, we investigate the performance of V2V communication by analyzing packet delivery ratios and packet drop rates with respect to sender and receiver's position under varying node density and intersection layout. While stationary and mobile obstacles considerably attenuate the received signal power, the results reveal that the presence of buildings could in some situations improve the performance of V2V communication by reducing co-channel interference from hidden nodes.
+abstract: One of the key challenges of Vehicle-to-Vehicle (V2V) communication is to ensure a reliable information exchange in such a way that a cooperative awareness between vehicles is permanently established, regardless of the considered environment and
+traffic conditions. Consequently, V2V applications have to fulfill quality requirements in order to help drivers in critical situations on rural and motorway roads,
+as well as in urban and inner-city areas. However, due to the presence of radio
+shadowing, a significant portion of message transmissions will be susceptible to
+recurrent signal attenuation caused by buildings or vegetation. For this purpose,
+it is essential to perform a deep analysis of the fundamental wave propagation
+characteristics in typical vehicular environments. The first part of this thesis covers
+a measurement-based evaluation of V2V communication by focusing on stationary radio shadowing at urban intersections. Hereby, we examine, based on several measurement campaigns, the impact of building and vegetation obstructions
+on the communication quality. In urban agglomerations, the communication performance is directly associated to availability of a constant line of sight between
+vehicles, which may depend on the distribution of buildings. Therefore, we provided an in-depth analysis and characterization of urban intersections based on
+digital maps from selected European big cities. It has been found that intersections
+with three up to four corners occupied by buildings are the most frequent. In addition, while the related work did not sufficiently address the scalability problem
+of Vehicular Ad-hoc Network (VANET) experimentally, we present an abstraction
+method to overcome logistic issues during real-world measurements. More particularly, we evaluate the impact of buildings on the severity of co-channel interference
+through experiments carried out at two different intersections.
+The second part of this thesis addresses the performance evaluation of V2V communication at urban intersections by analyzing the influence of building shadowing and penetration rates. Since the evaluation is performed by means of simulation, we propose a hybrid simulation platform composed of a network simulator and a road traffic simulator. To ensure applicability of simulation results, an
+ITS-G5 conform protocol stack from the application layer up to the physical layer
+is scrupulously modeled under the simulation tool OMNeT++. As propagation
+models may directly affect the level of accuracy in simulation-based performance
+evaluations, we introduce a dedicated urban propagation model designed to reflect radio propagation on urban environments in a realistic way. After a careful
+selection of representative scenarios, we perform a simulation campaign under
+variation of environment factors and communication parameters. We particularly
+concentrate on the scalability issue and the influence of intersection type on the
+communication performance. The obtained results indicate that performance of
+V2V communication at urban intersection is directly linked to the type of the intersection, and packet collisions are mainly caused by the channel access mechanism
+due to the broadcast nature of V2V communication.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -40,7 +64,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/7157978'
+url_pdf: 'https://www.repo.uni-hannover.de/bitstream/handle/123456789/8927/847413535.pdf?sequence=1'
 url_code: ''
 url_dataset: ''
 url_poster: ''
