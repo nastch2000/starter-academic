@@ -1,5 +1,5 @@
 ---
-title: "Radio shadowing in vehicle-to-vehicle communication at urban intersections: a measurement and simulation-based evaluation"
+title: "Radio shadowing in Vehicle-to-Vehicle Communication at urban Intersections: a Measurement and Simulation-based Evaluation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -9,7 +9,7 @@ authors:
 
 
  
-doi: "10.1109/CCNC.2015.7157978"
+#doi: "10.1109/CCNC.2015.7157978"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-02-01T00:00:00Z"
