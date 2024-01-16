@@ -2,6 +2,10 @@
 # Display name
 title: Hugues Tchouankem
 
+# Full name
+first_name: Hugues
+last_name: Tchouankem
+
 # Is this the primary user of the site?
 superuser: true
 
