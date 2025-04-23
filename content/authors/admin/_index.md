@@ -27,7 +27,7 @@ interests:
 - Mobile Communication
 - Vehicular and Campus Networks
 - Internet of Things (IoT)
-- Artificial Intelligence
+- Artificial Intelligence (Embedded-KI)
 - Autonomous Driving and Mobile Robotics
 
 # Education to show in About widget
@@ -68,5 +68,5 @@ email: "hugues.tchouankem@fh-dortmund.de"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hugues Tchouankem is a professor for Distributed Systems at Department of Information Technology at the University of Applied Sciences and Arts Dortmund, Germany. He also works as a senior research scientist and project leader in the corporate research and development department at Robert Bosch GmbH. Aside to his professional and academic activities, Hugues Tchouankem teached as a part-time lecturer at the Department of Business and Informatics at the Hannover University of Applied Sciences and Arts where he gave the course "Vehicular Communication (V2X)" for Bachelor and Master students. His research interests include distributed systems, computer networks, mobile and vehicular communication with a growing focus on artificial intelligence for mobile networks.
+Hugues Tchouankem is a full professor for Distributed Systems at Department of Information Technology at the Dortmund University of Applied Sciences and Arts, Germany. He also works as a senior research scientist and project leader in the corporate research and development department at Robert Bosch GmbH. Aside to his professional and academic activities, Hugues Tchouankem teached as a part-time lecturer at the Department of Business and Informatics at the Hannover University of Applied Sciences and Arts where he gave the course "Vehicular Communication (V2X)" for Bachelor and Master students. His research interests include distributed systems, computer networks, mobile and vehicular communication with a growing focus on artificial intelligence for mobile networks.
 
