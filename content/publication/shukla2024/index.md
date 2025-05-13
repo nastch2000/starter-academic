@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5983293](https://ieeexplore.ieee.org/document/10817331)'
+url_pdf: 'https://ieeexplore.ieee.org/document/10817331'
 url_code: ''
 url_dataset: ''
 url_poster: ''
