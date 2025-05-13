@@ -9,7 +9,7 @@ authors:
 - Hugues Tchouankem
 
 
-doi: ""
+doi: "10.1145/3616392.3623410"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-11T00:00:00Z"
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3616392.3623410'
 url_code: ''
 url_dataset: ''
 url_poster: ''
