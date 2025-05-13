@@ -19,7 +19,7 @@ authors:
 - H. D. Schotten
 - S. Stanczak
 
-doi: ""
+doi: "10.1109/VTC2021-Spring51267.2021.9449059"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-05-01T00:00:00Z"
@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/9449059'
 url_code: ''
 url_dataset: ''
 url_poster: ''
