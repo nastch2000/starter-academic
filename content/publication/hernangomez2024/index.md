@@ -59,9 +59,9 @@ featured: true
 
 url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494952'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://ieee-dataport.org/open-access/ai4mobile-industrial-wireless-datasets-iv2v-and-iv2i'
 url_poster: ''
-url_project: ''
+url_project: 'https://www.ai4mobile.org/en/'
 url_slides: ''
 url_source: ''
 url_video: ''
