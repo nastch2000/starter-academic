@@ -6,7 +6,9 @@ diagram: true
 highlight: true
 ---
 
-## Save the Date: November 19 & 20, 2025 in Dortmund
+## Save the Date: November 19 & 20, 2025 in Dortmund.
+
+##
 
 A dynamic scientific conference dedicated to exploring the cutting-edge topics of Artificial Intelligence, Extended Reality, Smart Mobility, and Intelligent Energy Systems. This event will bring together leading researchers, industry experts, and innovative thinkers to share insights, present groundbreaking research, and discuss emerging trends that are shaping the future of these interconnected fields. Attendees will have the opportunity to engage in collaborative workshops, panel discussions, and networking sessions that foster interdisciplinary dialogue and collaboration.
 
