@@ -1,12 +1,12 @@
 ---
-title: Smart Systems Conference 2025
+title: Smart Systems Conference 2026
 date: 2026-09-08
 math: true
 diagram: true
 highlight: true
 ---
 
-## Save the Date: November 18 & 19, 2026 in Dortmund.
+## Save the Date: 18–19 November 2026 at FH Dortmund.
 
 ## **How resilient are our smart systems when things go wrong?**
 
@@ -29,6 +29,8 @@ Join the discussion, exchange ideas with leading experts, and discover how intel
 ## **Be part of the conversation.**
 We have prepared a diverse program for you, featuring inspiring talks, interactive workshops, and engaging discussion panels. Our speakers are recognized experts in their respective fields, ready to share their insights and visions for the future with you. 
 
-Take this opportunity to exchange ideas, develop new concepts, and collaboratively contribute to shaping a connected and intelligent future. We are convinced that the topics we will address this year are not only relevant but also crucial for the challenges ahead. If you are interested , feel free to register directly on [website](https://smart-systems-conference.de/).
+Take this opportunity to exchange ideas, develop new concepts, and collaboratively contribute to shaping a connected and intelligent future. We are convinced that the topics we will address this year are not only relevant but also crucial for the challenges ahead. 
+
+If you are interested , feel free to register directly on [website](https://smart-systems-conference.de/).
 
 
