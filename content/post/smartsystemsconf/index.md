@@ -12,7 +12,10 @@ highlight: true
 
 Smart systems are everywhere – powering our energy infrastructure, transforming mobility, connecting our digital world, and increasingly making decisions through artificial intelligence.
 
-But what happens when the network fails? When data becomes unreliable? When infrastructure is attacked or overloaded? When AI makes the wrong decision?
+- But what happens when the network fails?
+- When data becomes unreliable?
+- When infrastructure is attacked or overloaded?
+- When AI makes the wrong decision?
 
 **Resilience is no longer an option – it is a necessity.**
 
