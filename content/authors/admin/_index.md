@@ -22,13 +22,19 @@ bio: My research interests include distributed systems, mobile communication, ve
 
 # Interests to show in About widget
 interests:
-- Distributed Systems
-- Computer Networks
-- Mobile Communication
-- Vehicular and Campus Networks
+- Distributed Systems and Computer Networks
+- 5G/6G and Mobile Communication
+- Vehicular Communication and Connected Mobility (V2X)
 - Internet of Things (IoT)
-- Artificial Intelligence (Embedded-KI)
-- Autonomous Driving and Mobile Robotics
+- Cloud, Edge-Cloud Computing and Edge Intelligence
+- Embedded AI / Edge AI
+- AI-enabled Mobile and Communication Networks
+- Real-Time Distributed Systems
+- Cooperative Intelligent Transportation Systems
+- Digital Twins and Intelligent Networked Systems
+- Connected and Smart Buildings
+- Autonomous and Resilient Networked Systems
+
 
 # Education to show in About widget
 education:
