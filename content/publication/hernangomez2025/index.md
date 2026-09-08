@@ -20,7 +20,7 @@ authors:
 - J. L. Calvo
 - B. Chen
 - G. Fettweis
-- S. Stańczak
+- S. Stanczak
 
 
 doi: "10.1109/MCOM.001.2300494"
